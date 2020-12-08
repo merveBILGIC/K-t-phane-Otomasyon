@@ -1,0 +1,15 @@
+C:\Users\merve bilgiç\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Debug\KütüphaneOtomasyon.exe.config
+C:\Users\merve bilgiç\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Debug\KütüphaneOtomasyon.exe
+C:\Users\merve bilgiç\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Debug\KütüphaneOtomasyon.pdb
+C:\Users\merve bilgiç\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.csprojAssemblyReference.cache
+C:\Users\merve bilgiç\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.anaform.resources
+C:\Users\merve bilgiç\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.Form2GRS.resources
+C:\Users\merve bilgiç\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.Properties.Resources.resources
+C:\Users\merve bilgiç\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\merve bilgiç\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\merve bilgiç\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.exe
+C:\Users\merve bilgiç\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.pdb
+C:\Users\merve bilgiç\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.Form3UYE.resources
+C:\Users\merve bilgiç\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.Form2.resources
+C:\Users\merve bilgiç\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.Form3odnc.resources
+C:\Users\merve bilgiç\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.FormTSLM.resources
